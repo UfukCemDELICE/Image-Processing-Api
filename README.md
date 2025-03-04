@@ -1,9 +1,11 @@
 # Image Processing API
 
 ## Description
+
 This is a Node.js API for processing images using Express and Sharp. It allows users to resize and manipulate images through an API endpoint.
 
 ## Table of Contents
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [Scripts](#scripts)
@@ -91,4 +93,3 @@ npm run prepare-dev
 ## License
 
 This project is licensed under the ISC License.
-
